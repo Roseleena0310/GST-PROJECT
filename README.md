@@ -3,8 +3,6 @@ I've developed a static webpage showcasing a range of makeup products, thoughtfu
 Key Features:
 
 Product Showcase:
-.High-quality images and concise descriptions for <img width="922" alt="Screenshot 2024-01-19 191609" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/81deaaad-eeba-446e-a8cb-69d2929c3834">
-each makeup product.
 Detailed information about ingredients, ensuring customer awareness.
 Pricing Transparency:
 .Clearly displayed product prices, including the applicable GST.
