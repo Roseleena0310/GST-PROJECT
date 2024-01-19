@@ -3,7 +3,8 @@ I've developed a static webpage showcasing a range of makeup products, thoughtfu
 Key Features:
 
 Product Showcase:
-.High-quality images and concise descriptions for each makeup product.
+.High-quality images and concise descriptions for <img width="922" alt="Screenshot 2024-01-19 191609" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/81deaaad-eeba-446e-a8cb-69d2929c3834">
+each makeup product.
 Detailed information about ingredients, ensuring customer awareness.
 Pricing Transparency:
 .Clearly displayed product prices, including the applicable GST.
@@ -16,7 +17,9 @@ Contact Information:
 .Easily accessible contact details for customer inquiries or assistance.
 User-Friendly Design:
 .Intuitive and visually appealing layout for a seamless browsing experience.
-Easy navigation for customers to explore products effortle<img width="922" alt="Screenshot 2024-01-19 191609" src=<img width="934" alt="Screenshot 2024-01-19 191718" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/3d9d54af-21b2-4aa3-b6ce-fab949e0f1b0">
-"https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/9450b4c5-ecee-43b4-a28a-726559a8cb19"><img width="927" alt="Screenshot 2024-01-19 191805" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/6af4402b-e288-448b-8958-3a18dbb9f4c4">
+<img width="922" alt="Screenshot 2024-01-19 191609" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/684c8e5f-48c7-46c9-a200-cfad6d37a0f8">
 
-ssly.
+<img width="934" alt="Screenshot 2024-01-19 191718" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/e0814491-e1fd-4d52-baef-fb03cf52a0f3">
+
+
+<img width="927" alt="Screenshot 2024-01-19 191805" src="https://github.com/Roseleena0310/GST-PROJECT/assets/156284549/5c98b0d9-3779-485c-abd1-f7ba9d9eb67d">
